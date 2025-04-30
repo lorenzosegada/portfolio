@@ -16,7 +16,7 @@ const projects = [
     image: porfolio,
     description: "Este es mi porfolio.",
     liveLink: "#",
-    repoLink: "#",
+    repoLink: "https://github.com/lorenzosegada/portfolio",
   },
   {
     title: "Pokédex Web App",
