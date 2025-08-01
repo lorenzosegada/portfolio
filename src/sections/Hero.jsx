@@ -56,7 +56,7 @@ const Hero = () => {
 
       {/* Imagen o avatar */}
       <div className="w-full md:w-1/2 flex justify-center md:justify-end">
-      <div className="w-64 h-80  rounded-xl overflow-hidden">
+      <div className="w-64 h-80 rounded-xl overflow-hidden">
         <img
       src={fotoPorfolio}
       alt="Foto de portfolio"
