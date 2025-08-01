@@ -2,7 +2,7 @@
 import Navbar from './components/Navbar'
 import Hero from './sections/Hero'
 import About from './sections/About'
-import Stack from './sections/stack'
+import Stack from './sections/Stack'
 import  Contact  from './sections/Contact'
 import Projects from './sections/Projects'
 
