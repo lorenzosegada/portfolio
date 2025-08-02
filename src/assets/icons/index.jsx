@@ -7,7 +7,6 @@ import gitIcon from '../icons/gitIcon.png'
 import figmaIcon from '../icons/figmaIcon.png'
 import cssIcon from  '../icons/cssIcon.png'
 import cSharpIcon from '../icons/cSharpIcon.png'
-import boostrapIcon from '../icons/boostrapIcon.png'
 import mySQL from '../icons/mySQL.png'
 
 import reactIconBlack from '../icons/reactIconBlack.png' // se cambia el nombre del archivo react icon
@@ -22,11 +21,8 @@ import cSharpIconBlack from '../icons/cSharpIconBlack.png'
 import mySQLBlack from '../icons/mySQLBlack.png'
 
 
-
-
-
 const icons = {
-    reactIcon, tailwindIcon, nodeJsIcon, javascriptIcon, htmlIcon, gitIcon, figmaIcon, cssIcon, cSharpIcon,boostrapIcon,mySQL,reactIconBlack,tailwindIconBlack,nodeJsIconBlack,javascriptIconBlack,htmlIconBlack,gitIconBlack,figmaIconBlack,cssIconBlack,cSharpIconBlack,mySQLBlack
+    reactIcon, tailwindIcon, nodeJsIcon, javascriptIcon, htmlIcon, gitIcon, figmaIcon, cssIcon, cSharpIcon,mySQL,reactIconBlack,tailwindIconBlack,nodeJsIconBlack,javascriptIconBlack,htmlIconBlack,gitIconBlack,figmaIconBlack,cssIconBlack,cSharpIconBlack,mySQLBlack
 };
 
 
