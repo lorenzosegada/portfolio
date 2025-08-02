@@ -10,7 +10,7 @@ import cSharpIcon from '../icons/cSharpIcon.png'
 import boostrapIcon from '../icons/boostrapIcon.png'
 import mySQL from '../icons/mySQL.png'
 
-import reactIconBlack from '../icons/reactIconBlack.png' // se cambia el nombre del archivo react icon
+import reactIconBlack from '../icons/ReactIconBlack.png' // se cambia el nombre del archivo react icon
 import tailwindIconBlack from '../icons/tailwindIconBlack.png'
 import nodeJsIconBlack from '../icons/nodeJsIconBlack.png'
 import javascriptIconBlack from '../icons/javascriptIconBlack.png'
