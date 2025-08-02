@@ -29,7 +29,7 @@ const Stack = () => {
     },
     {
       name: "React",
-      icon: theme === "dark" ? icons.reactIcon : icons.ReactIconBlack,
+      icon: theme === "dark" ? icons.reactIcon : icons.reactIconBlack,
     },
     {
       name: "Node.js",
