@@ -41,11 +41,13 @@ const Projects = () => {
             key={index}
             className="group relative overflow-hidden rounded-lg shadow-lg border border-[#E0E0E0] dark:border-[#2A2A2A]"
           >
-            <img
-              src={project.image}
-              alt={project.title}
-              className="w-full h-[300px] object-cover transition-transform duration-300 group-hover:scale-110"
-            />
+            <div className="aspect-[4/3] w-full overflow-hidden">
+              <img
+                src={project.image}
+                alt={project.title}
+                className="w-full h-full object-cover transition-transform duration-300 group-hover:scale-110"
+              />
+            </div>
 
             <div className="absolute inset-0 bg-black bg-opacity-50 flex items-center justify-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
               <div className="text-center">
