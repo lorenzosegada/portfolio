@@ -2,7 +2,7 @@ import { ExternalLink, Github } from "lucide-react";
 import porfolio from "../assets/image/porfolio.png";
 import webService from "../assets/image/webService.png";
 import pokedex from "../assets/image/pokedex.png";
-import medicapp from "../assets/image/medicapp.png"
+import medicapp from "../assets/image/MedicApp.png"
 
 const projects = [
   {
