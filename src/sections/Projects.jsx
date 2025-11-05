@@ -2,6 +2,7 @@ import { ExternalLink, Github } from "lucide-react";
 import porfolio from "../assets/image/porfolio.png";
 import webService from "../assets/image/webService.png";
 import pokedex from "../assets/image/pokedex.png";
+import medicapp from "../assets/image/medicapp.png"
 
 const projects = [
   {
@@ -24,6 +25,13 @@ const projects = [
     description: "Aplicación web interactiva que permite explorar Pokémon usando React y la PokéAPI.",
     liveLink: "https://pokedex-pi-pearl.vercel.app/",
     repoLink: "https://github.com/lorenzosegada/Pokedex",
+  },
+  {
+    title: "Medic App",
+    image: medicapp,
+    description: "Plataforma web para gestión de citas, historiales y teleconsultas con enfoque en seguridad y experiencia del usuario.",
+    liveLink: "#",
+    repoLink: "https://github.com/G20-NoCountry/g20-HealthTech",
   },
 ];
 
