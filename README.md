@@ -1,12 +1,62 @@
-# React + Vite
+# Portfolio Personal
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Hola! Bienvenido a mi portafolio personal. Este proyecto es una muestra de mis habilidades, experiencia y los proyectos en los que he trabajado. Está diseñado para ser limpio, moderno y completamente responsivo.
 
-Currently, two official plugins are available:
+![Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+*(Puedes reemplazar esto con una captura de pantalla real de tu portafolio)*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías
 
-## Expanding the ESLint configuration
+Este portafolio ha sido construido con tecnologías modernas para asegurar rendimiento y mantenibilidad:
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+-   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React**
+-   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white) **Vite**
+-   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS**
+-   **Lucide React** (para íconos)
+
+## ✨ Características
+
+-   **🎨 Diseño Responsivo**: Se adapta perfectamente a móviles, tablets y escritorio.
+-   **🌙 Modo Oscuro/Claro**: Soporte nativo para preferencia de tema del sistema o cambio manual.
+-   **⚡ Alto Rendimiento**: Carga rápida gracias a Vite.
+-   **📱 Secciones Clave**:
+    -   **Inicio**: Introducción.
+    -   **Sobre Mí**: Resumen de experiencia y habilidades.
+    -   **Proyectos**: Galería de trabajos con enlaces a demos y código.
+    -   **Contacto**: Formas fáciles de conectar.
+
+## 🛠️ Instalación y Uso
+
+Si deseas clonar y ejecutar este proyecto localmente:
+
+1.  **Clonar el repositorio**
+    ```bash
+    git clone https://github.com/lorenzosegada/portfolio.git
+    cd portfolio
+    ```
+
+2.  **Instalar dependencias**
+    ```bash
+    npm install
+    ```
+
+3.  **Correr el servidor de desarrollo**
+    ```bash
+    npm run dev
+    ```
+
+4.  **Construir para producción**
+    ```bash
+    npm run build
+    ```
+
+## 📬 Contacto
+
+¿Te gustó lo que viste? ¡Hablemos!
+
+-   **LinkedIn**: [Tu LinkedIn](#)
+-   **Email**: [Tu Email](#)
+-   **GitHub**: [lorenzosegada](https://github.com/lorenzosegada)
+
+---
+Hecho con ❤️ por Lorenzo Segada Lopez
