@@ -2,7 +2,7 @@
 
 ¡Hola! Bienvenido a mi portafolio personal. Este proyecto es una muestra de mis habilidades, experiencia y los proyectos en los que he trabajado. Está diseñado para ser limpio, moderno y completamente responsivo.
 
-![Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)
+![Portfolio Preview](src/assets/image/porfolio.png)
 
 ## Tecnologías
 
