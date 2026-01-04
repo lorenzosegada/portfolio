@@ -5,7 +5,7 @@
 ![Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)
 *(Puedes reemplazar esto con una captura de pantalla real de tu portafolio)*
 
-## 🚀 Tecnologías
+## Tecnologías
 
 Este portafolio ha sido construido con tecnologías modernas para asegurar rendimiento y mantenibilidad:
 
@@ -14,18 +14,18 @@ Este portafolio ha sido construido con tecnologías modernas para asegurar rendi
 -   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS**
 -   **Lucide React** (para íconos)
 
-## ✨ Características
+## Características
 
--   **🎨 Diseño Responsivo**: Se adapta perfectamente a móviles, tablets y escritorio.
--   **🌙 Modo Oscuro/Claro**: Soporte nativo para preferencia de tema del sistema o cambio manual.
--   **⚡ Alto Rendimiento**: Carga rápida gracias a Vite.
--   **📱 Secciones Clave**:
+-   **Diseño Responsivo**: Se adapta perfectamente a móviles, tablets y escritorio.
+-   **Modo Oscuro/Claro**: Soporte nativo para preferencia de tema del sistema o cambio manual.
+-   **Alto Rendimiento**: Carga rápida gracias a Vite.
+-   **Secciones Clave**:
     -   **Inicio**: Introducción.
     -   **Sobre Mí**: Resumen de experiencia y habilidades.
     -   **Proyectos**: Galería de trabajos con enlaces a demos y código.
     -   **Contacto**: Formas fáciles de conectar.
 
-## 🛠️ Instalación y Uso
+## Instalación y Uso
 
 Si deseas clonar y ejecutar este proyecto localmente:
 
@@ -50,7 +50,7 @@ Si deseas clonar y ejecutar este proyecto localmente:
     npm run build
     ```
 
-## 📬 Contacto
+## Contacto
 
 ¿Te gustó lo que viste? ¡Hablemos!
 
