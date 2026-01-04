@@ -3,7 +3,6 @@
 ¡Hola! Bienvenido a mi portafolio personal. Este proyecto es una muestra de mis habilidades, experiencia y los proyectos en los que he trabajado. Está diseñado para ser limpio, moderno y completamente responsivo.
 
 ![Screenshot](https://via.placeholder.com/800x400?text=Portfolio+Preview)
-*(Puedes reemplazar esto con una captura de pantalla real de tu portafolio)*
 
 ## Tecnologías
 
@@ -54,8 +53,8 @@ Si deseas clonar y ejecutar este proyecto localmente:
 
 ¿Te gustó lo que viste? ¡Hablemos!
 
--   **LinkedIn**: [Tu LinkedIn](#)
--   **Email**: [Tu Email](#)
+-   **LinkedIn**: [Lorenzo Segada Lopez](https://www.linkedin.com/in/lorenzo-segada-lopez/)
+-   **Email**: [lorenzosegada@gmail.com](#)
 -   **GitHub**: [lorenzosegada](https://github.com/lorenzosegada)
 
 ---
