@@ -4,8 +4,25 @@ import webService from "../assets/image/webService.png";
 import pokedex from "../assets/image/pokedex.png";
 import medicapp from "../assets/image/MedicApp.png";
 import crm from "../assets/image/capturaCRM.png"
+import appBit from "../assets/image/appBit.png";
+import nocountryTech from "../assets/image/nocountryTech.png";
 
 const projects = [
+  {
+    title: "nocountry.tech",
+    image: nocountryTech,
+    description: "Sitio institucional de No Country en producción, con Next.js, React 19 y Tailwind CSS v4. Incluye SEO técnico y GEO (datos estructurados, Open Graph dinámico, sitemap).",
+    liveLink: "https://www.nocountry.tech",
+    repoLink: "#",
+  },
+  {
+    title: "App BiT",
+    image: appBit,
+    description: "Plataforma B2G de inteligencia territorial con mapas interactivos, gráficos y un asistente de IA conversacional para la toma de decisiones municipales.",
+    liveLink: "#",
+    repoLink: "https://github.com/No-Country-simulation/S06-26-NC-EQUIPO--72",
+    showcase: "https://www.nocountry.tech/showcase/simulacion-laboral-junio-2026/nc-equipo-72",
+  },
   {
     title: "Gestión de Equipos en Servicio Técnico",
     image: webService,
@@ -33,7 +50,7 @@ const projects = [
     description: "Plataforma web para gestión de citas, historiales y teleconsultas con enfoque en seguridad y experiencia del usuario.",
     liveLink: "#",
     repoLink: "https://github.com/G20-NoCountry/g20-HealthTech",
-    showcase: "https://nocountry.tech/simulacion-laboral-septiembre-2025/cmg44ut8600i9m701ha6ssug5",
+    showcase: "https://www.nocountry.tech/showcase/simulacion-laboral-septiembre-2025/equipo-20-webapp",
   },
   {
     title: "CRM",
@@ -41,7 +58,7 @@ const projects = [
     description: "Sistema CRM moderno para gestión de leads y comunicación multicanal.",
     liveLink: "#",
     repoLink: "https://github.com/Agus402/crm-no-country",
-    showcase: "https://nocountry.tech/simulacion-laboral-noviembre-2025/cmhp4dz66002jk001x17x8181",
+    showcase: "https://www.nocountry.tech/showcase/simulacion-laboral-noviembre-2025/equipo-37-webapp",
   },
 ];
 
